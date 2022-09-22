@@ -2,12 +2,11 @@
 
 ## versions:
 
-1 - hibernate-release-5.6.5
+1 - Spring Framework 5.3.9
 
-2 - hibernate-validator-6.0
+2 - hibernate-release-5.6.5
 
-3 - Spring Framework 5.3.9
-
+3 - hibernate-validator-6.0
 
 ## How to run:
 
