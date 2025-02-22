@@ -1,4 +1,4 @@
-# Project's Title : Student Registration System using Spring MVC and Hibernate with java
+# Student Registration System using Spring MVC and Hibernate with java
 
 ## versions:
 
